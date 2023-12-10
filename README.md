@@ -1,1 +1,1 @@
-# graph-fraud-detection
+# Graph-Fraud-Detection
